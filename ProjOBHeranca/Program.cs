@@ -14,8 +14,8 @@ namespace ProjOBHeranca {
             aluno1.setCpf(89756002);
             aluno1.setRa(202223987);
             aluno1.setDatamatricula("12/02/2022");
-           
-            Console.WriteLine("\n**** Cadastro Aluno ****")
+
+            Console.WriteLine("\n**** Cadastro Aluno ****");
             Console.WriteLine(aluno1.ToString());
 
             Aluno aluno2 = new Aluno("Larissa","07/09/1990",87654895,1236854,"03/08/2022");
